@@ -1,9 +1,9 @@
-import Komponen from "./Materi/Komponen";
+import TugasStyling from "./Materi/Styling/TugasStyling";
 
 function App() {
   return (
     <div className="App">
-      <Komponen />
+      <TugasStyling />
     </div>
   );
 }
