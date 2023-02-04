@@ -1,0 +1,26 @@
+.display-3 {
+	color: white;
+	text-shadow: -2px 2px 2px black;
+	font-family: gabriola;
+}
+
+.jumbotron {
+    background-image: url(../Gambar/c.jpg);
+    background-size: cover;
+	background-repeat: no-repeat;
+    height: 400px;
+}
+
+.fs-4 {
+    font-family: gabriola;
+}
+
+.btn-success {
+	background-color: #20CD08;
+	border-radius: 10px;
+	box-shadow: -2px 3px 2px black !important;
+}
+
+.btn-success:hover {
+	background-color: #3BE723;
+}

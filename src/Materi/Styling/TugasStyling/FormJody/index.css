@@ -1,0 +1,13 @@
+.form {
+    background-image: url(../Gambar/h.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+}
+
+.text {
+    color: white;
+	text-shadow: -2px 2px 2px black;
+	font-family: gabriola;
+}
