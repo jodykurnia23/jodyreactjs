@@ -23,7 +23,7 @@ export default class FormJody extends React.Component {
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                     </Form.Group>
                     <Form.Group className="mb-3 mx-auto col-sm-7 " controlId="formBasicCheckbox">
-                        <Form.Check className="mb-3 text fs-5" type="checkbox" label="Check me out" />
+                        <Form.Check className="mb-3 text fs-5" type="checkbox" label="Dengan ini, saya menyatakan bahwa data yang diisi sudah benar" />
                         <Button className="btn-success btn-sm shadow-sm border border-dark text-white px-3 py-2" variant="primary" type="submit">
                              Send.
                         </Button>

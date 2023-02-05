@@ -2,3 +2,12 @@
     background-color: aliceblue;
     font-family: monospace;
 }
+
+.layout{
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+

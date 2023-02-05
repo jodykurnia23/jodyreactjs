@@ -6,7 +6,7 @@ import "./index.css"
 export default class Header extends React.Component {
     render() {
         return(
-            <Container className='jumbotron mt-3 bg-light col-lg-12 col-sm-12 col-md-12'>
+            <Container className='jumbotron mt-3 bg-light col-lg-12 col-sm-12 col-md-12' id="welcome">
                 <div class="container-fluid mt-1 py-5 text-center">
                 <h1 class="display-3 mt-5 fw-bold">Jody Kurnia Putra</h1>
                 <p class="fs-4 fst-italic mt-3">Fullstack Web Developer</p>
