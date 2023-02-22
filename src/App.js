@@ -1,9 +1,11 @@
-import TugasStyling from "./Materi/Styling/TugasStyling";
+import Form from "./Materi/Form";
+
+
 
 function App() {
   return (
     <div className="App">
-      <TugasStyling />
+      <Form />
     </div>
   );
 }
