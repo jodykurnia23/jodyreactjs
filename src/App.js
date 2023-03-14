@@ -1,11 +1,10 @@
-import Form from "./Materi/Form";
-
+import PortalBerita from "./Tugas/PortalBerita";
 
 
 function App() {
   return (
     <div className="App">
-      <Form />
+      <PortalBerita />
     </div>
   );
 }
