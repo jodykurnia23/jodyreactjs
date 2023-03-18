@@ -1,10 +1,9 @@
 import PortalBerita from "./Tugas/PortalBerita";
 
-
 function App() {
   return (
     <div className="App">
-      <PortalBerita />
+       <PortalBerita />
     </div>
   );
 }
